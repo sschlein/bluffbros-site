@@ -5,6 +5,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>BluffBros – Poker Timer for iOS</title>
+        <meta name="description" content="A minimalist Poker Timer for iOS">
+        <meta property="og:title" content="BluffBros">
+        <meta property="og:description" content="A minimalist Poker Timer for iOS">
+        <meta property="og:site_name" content="BluffBros">
+        <meta property="og:image" content="{{ config('app.url') }}/images/card.png">
+
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="{{ config('app.url') }}/images/card.png">
+        <meta name="twitter:title" content="BluffBros">
+        <meta name="twitter:description" content="A minimalist Poker Timer for iOS">
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
