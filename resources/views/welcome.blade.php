@@ -13,7 +13,7 @@
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
     <body class="antialiased bg-[#f1daa4]">
-    <div class="min-h-screen flex items-center">
+    <div class="md:min-h-screen flex items-center">
         <div class="flex flex-col max-w-3xl mx-auto">
             <div class="flex flex-col space-y-4 items-center justify-center text-center py-8">
                 <h1 class="text-center text-3xl md:text-6xl font-bold">BluffBros</h1>
